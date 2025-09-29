@@ -1,0 +1,25 @@
+{
+  "name": "Horizon Site Survey",
+  "short_name": "Site Survey",
+  "dir": "rtl",
+  "lang": "ar",
+  "display": "standalone",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "theme_color": "#12A44A",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
