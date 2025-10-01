@@ -1,0 +1,13 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Node / tooling (لو استخدمت أدوات لاحقًا)
+node_modules/
+dist/
+build/
+.cache/
+
+# Python temp server
+__pycache__/
+.pytest_cache/
